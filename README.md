@@ -45,14 +45,14 @@
 ## 📊 GitHub stats
 
 <div align="center">
-  <img height="180em" src="https://profile-stats-bay.vercel.app/api?username=teluchungi&show_icons=true&theme=tokyonight&title_color=4e4e51&text_color=fff&icon_color=4e4e51&show=prs_merged,prs_merged_percentage&hide=stars&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img height="180em" src="https://profile-stats-bay.vercel.app/api/top-langs/?username=teluchungi&theme=tokyonight&title_color=4e4e51&text_color=fff&exclude_repo=simple-keyboard,profile-stats,microarbiter,chungi&layout=compact&langs_count=8" alt="Top Languages" /> <!-- Reference from friend -->
+  <img height="180em" src="https://profile-stats-bay.vercel.app/api?username=brokenhungi&show_icons=true&theme=tokyonight&title_color=4e4e51&text_color=fff&icon_color=4e4e51&show=prs_merged,prs_merged_percentage&hide=stars&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img height="180em" src="https://profile-stats-bay.vercel.app/api/top-langs/?username=brokenchungi&theme=tokyonight&title_color=4e4e51&text_color=fff&exclude_repo=simple-keyboard,profile-stats,microarbiter,chungi&layout=compact&langs_count=8" alt="Top Languages" /> <!-- Reference from friend -->
 </div>
 
 ## 📈 Profile views
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=teluchungi&label=Profile%20Views&color=4e4e51&style=for-the-badge" alt="Profile Views" /> <!-- Also this is one -->
+  <img src="https://komarev.com/ghpvc/?username=brokenchungi&label=Profile%20Views&color=4e4e51&style=for-the-badge" alt="Profile Views" /> <!-- Also this is one -->
 </div>
 
 ---
